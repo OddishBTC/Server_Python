@@ -1,8 +1,14 @@
 # Server_Python
 Crawling and Parsing Bus Information System + Save Information
 
-## 0. 제주버스정보시스템에 직접 다운로드받은 버스시간표 excel 파일(.xlsx) 첨부.
+
+### 0.1 제주버스시간.zip
+제주버스정보시스템에 직접 다운로드받은 버스시간표 excel 파일(.xlsx) 첨부.
 * (2022.04.08 에 다운로드 받음) (제주버스정보시스템 공지사항을 참고하여, 수정되는 버스시간표가 있을 시 업데이트를 해줘야 함.)
+
+### 0.2 결과물.zip
+현재까지 진행하여 얻은 결과물 -> 아래 파이썬 코드들을 실행해서 얻은 결과물들
+
 
 ## 1. (unused)BusRouteInfo_API.py
 우선 제주데이터허브의 버스 노선 정보 API를 불러와서 BusRouteNumList.csv 파일을 저장했음. 근데 정보가 부적합하다고 판단하여 2번에서 수정작업을 좀 했음
