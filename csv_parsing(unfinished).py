@@ -7,12 +7,12 @@ def openFile():
     files = "JejuBusTime/All_converted"
     for filename in os.listdir(files):
         df = pd.read_csv(files+"/"+filename)
-        try:
-            if df.loc[5,'Unnamed: 2'] == "노선번호":
-                BusSet = set(df.loc[:,'Unnamed: 2'])
-                print(BusSet)
-        except:
-            continue
+        df_col = df.columns
+        if df_col[1] == '노선번호':
+            BusSet = set(df.loc[:,'노선번호'])
+            print(BusSet)
+        
+
         
 
 def main():

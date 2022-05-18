@@ -1,5 +1,6 @@
 # 참고 : https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html?highlight=read_excel
 # 참고 : https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html?highlight=to_csv
+# 참고 : https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.truncate.html#pandas.DataFrame.truncate
 
 import pandas as pd
 from pathlib import Path
@@ -37,7 +38,13 @@ def convert(relative_route):
                 converted_name = relative_route + "/converted_csv/" + a + ", " + b + ".csv"
                 filepath = Path(converted_name)
                 filepath.parent.mkdir(parents=True, exist_ok=True)
-                df.to_csv(filepath)
+                
+                df = df.drop('Unnamed: 0', axis=1)
+                dataF = df.truncate(before=5, axis=0)
+                dataF = dataF.rename(columns=dataF.iloc[0])    # 첫번째 행을 column으로지정
+                dataF = dataF.drop([5])    # 첫번째 행을 삭제한다                분
+                dataF = dataF.set_index('구분')
+                dataF.to_csv(filepath)
                 
                 i=i+1
             
