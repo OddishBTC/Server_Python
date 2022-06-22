@@ -20,7 +20,7 @@ def createFolder_BusRouteNumList():
     busNum = list(df['0'])
     
     for i in busNum:
-        createFolder('BusRouteNumList/'+i)
+        createFolder('BusSchedule/'+i)
 
 
 

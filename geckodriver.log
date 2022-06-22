@@ -1817,3 +1817,473 @@ JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: 
 1652529455643	Marionette	INFO	Stopped listening on port 39759
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1652595385371	geckodriver	INFO	Listening on 127.0.0.1:50615
+1652595386384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiMsAdb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652595387231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiMsAdb/search.json.mozlz4", (void 0)))
+1652595388218	Marionette	INFO	Listening on port 32829
+Read port: 32829
+1652595388303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1654683849750	geckodriver	INFO	Listening on 127.0.0.1:44149
+1654683850759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHJKuxd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654683851664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHJKuxd/search.json.mozlz4", (void 0)))
+1654683852786	Marionette	INFO	Listening on port 45505
+Read port: 45505
+1654683852905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1654684068205	geckodriver	INFO	Listening on 127.0.0.1:60593
+1654684069213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRmzfy4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654684070077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRmzfy4/search.json.mozlz4", (void 0)))
+1654684071160	Marionette	INFO	Listening on port 43023
+Read port: 43023
+1654684071228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654687267841	geckodriver	INFO	Listening on 127.0.0.1:33505
+1654687268851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileuZrbs1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654687269687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuZrbs1/search.json.mozlz4", (void 0)))
+1654687270736	Marionette	INFO	Listening on port 36257
+Read port: 36257
+1654687270767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+1654687307804	Marionette	INFO	Stopped listening on port 43023
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+1654690935485	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1654690966990	Marionette	INFO	Stopped listening on port 36257
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1654690973637	geckodriver	INFO	Listening on 127.0.0.1:42395
+1654690974645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileV3E4tI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654690975467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV3E4tI/search.json.mozlz4", (void 0)))
+1654690976471	Marionette	INFO	Listening on port 33607
+Read port: 33607
+1654690976573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+1654692591757	Marionette	INFO	Stopped listening on port 33607
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1655800379545	geckodriver	INFO	Listening on 127.0.0.1:37957
+1655800380559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVg4xpX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655800381480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVg4xpX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1655800382675	Marionette	INFO	Listening on port 40137
+Read port: 40137
+1655800382810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655800428265	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1655800512193	Marionette	INFO	Stopped listening on port 40137
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655800550424	geckodriver	INFO	Listening on 127.0.0.1:32823
+1655800551435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileBJcvOO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655800552271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBJcvOO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1655800553413	Marionette	INFO	Listening on port 44367
+Read port: 44367
+1655800553469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1655804097911	Marionette	INFO	Stopped listening on port 44367
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655804100672	geckodriver	INFO	Listening on 127.0.0.1:33841
+1655804101680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemYKnjl"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655804102471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemYKnjl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1655804103597	Marionette	INFO	Listening on port 34101
+Read port: 34101
+1655804103718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655804191738	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655804195642	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1655804198043	Marionette	INFO	Stopped listening on port 34101
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655804199679	geckodriver	INFO	Listening on 127.0.0.1:50481
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655804200690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejoaIQO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655804201564	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejoaIQO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1655804202639	Marionette	INFO	Listening on port 38623
+Read port: 38623
+1655804202710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655804278845	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1655804611587	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1655806320422	Marionette	INFO	Stopped listening on port 38623
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1655818583167	geckodriver	INFO	Listening on 127.0.0.1:53115
+1655818584181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7oUbxn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655818585056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7oUbxn/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1655818586127	Marionette	INFO	Listening on port 40659
+Read port: 40659
+1655818586223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+1655822804235	geckodriver	INFO	Listening on 127.0.0.1:46329
+1655822805242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemPxe3v"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655822806022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemPxe3v/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1655822807027	Marionette	INFO	Listening on port 38929
+Read port: 38929
+1655822807074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1655822810474	Marionette	INFO	Stopped listening on port 40659
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+1655827270254	geckodriver	INFO	Listening on 127.0.0.1:33891
+1655827271262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3D5h70"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655827272093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3D5h70/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1655827273145	Marionette	INFO	Listening on port 35981
+Read port: 35981
+1655827273180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1655827275799	Marionette	INFO	Stopped listening on port 38929
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+JavaScript error: https://bus.jeju.go.kr/resources/script/jquery.scrollbar.js, line 609: TypeError: $ is undefined
+JavaScript error: https://bus.jeju.go.kr/search/line#, line 97: ReferenceError: $ is not defined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1655833526737	Marionette	INFO	Stopped listening on port 35981
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+

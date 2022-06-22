@@ -61,8 +61,10 @@ def crawling():
                 time.sleep(1) #스크립트 실행 할 동안 1초 대기                
 
                 # ------------------------------------------- 버스 이름 구하기 ---------------------------------------------
-                soupCB = BeautifulSoup(html, 'html.parser')
+                
                 html = wd.page_source    # html 따오기
+                soupCB = BeautifulSoup(html, 'html.parser')
+                
                 bus_name = soupCB.select("p.item")      # 버스 경로 정보 따오기
                 
                 busName = ''
